@@ -1,0 +1,5 @@
+access_key = "XXXX"
+secret_key = "XXXXX"
+region = "us-east-2"
+profile = "Default"
+ami = "ami-00399ec92321828f5"
